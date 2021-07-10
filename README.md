@@ -32,7 +32,7 @@ All set!!! Just download the Project folder...
 
 	src/test/java
 	
-	apiResources --> contains API resources file
+		apiResources --> contains API resources file
 	
 		base --> contains Base class for the execution
 		
