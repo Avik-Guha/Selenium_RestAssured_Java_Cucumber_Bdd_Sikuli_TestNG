@@ -1,4 +1,4 @@
-# RestAssured_Selenium_Java_Cucumber_BDD_TestNG
+# RestAssured_Selenium_Java_Cucumber_BDD_Sikuli_TestNG
 
 This is an Web Automation Testing framework using:
 
@@ -6,8 +6,8 @@ This is an Web Automation Testing framework using:
 	Selenium
 	Java
 	Cucumber BDD
-	log4js
 	Sikuli
+	log4js
 	Maven
 	TestNG
 
