@@ -10,6 +10,7 @@ This is an API Automation Testing framework using:
 	log4js
 	Maven
 	TestNG
+	Page Object Model
 
 ## Installation
 
